@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+}
+h1{
+	line-height: 600px;
+	font-size: 45px;
+	margin: auto;
+	font-family: sans-serif;
+	color: white;
+}
+
+.thing{
+	background: linear-gradient(rgba(39, 174, 96,0.7), rgba(155, 89, 182,0.7)), url(images/1.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	text-align: center;
+	height: 100vh;
+
+}
